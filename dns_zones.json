@@ -164,6 +164,11 @@
       "name":"naswii.nintendowifi.net",
       "value":"78.46.231.155"
    },
+   {  
+      "type":"a",
+      "name":"naswii.dev.wiimmfi.de",
+      "value":"95.217.77.151"
+   },
    {
       "type":"a",
       "name":"natneg1.gs.nintendowifi.net",
@@ -286,6 +291,31 @@
    },
    {
       "type":"a",
+      "name":"wc24.wii.com"
+      "value":"164.132.44.106"
+   },
+   {
+      "type":"a",
+      "name":"dls1.wiimmfi.de"
+      "value":"165.227.235.155"
+   },
+   {  
+      "type":"a",
+      "name":"dls2.wiimmfi.de",
+      "value":"165.227.235.155 "
+   },
+   {  
+      "type":"a",
+      "name":"dls1.riiconnect24.net",
+      "value":"165.227.235.155 "
+   },
+   {  
+      "type":"a",
+      "name":"dls2.riiconnect24.net",
+      "value":"165.227.235.155 "
+   },
+   {
+      "type":"a",
       "name":"weather.wapp.wii.com",
       "value":"167.86.108.126"
    },
@@ -297,11 +327,6 @@
    {
       "type":"a",
       "name":"wiirecommend.nintendo.com.au",
-      "value":"167.86.108.126"
-   },
-   {
-      "type":"a",
-      "name":"wus.wapp.wii.com",
       "value":"167.86.108.126"
    },
    {
